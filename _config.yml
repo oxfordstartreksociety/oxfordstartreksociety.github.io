@@ -1,0 +1,12 @@
+title: Oxford Star Trek Society
+author: Kaashif Hymabaccus
+email: kaashif dot hymabaccus at wadh dot ox dot ac dot uk
+description:
+  The Oxford Star Trek Society
+baseurl: ""
+url: "https://oxfordstartreksociety.github.io" 
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
