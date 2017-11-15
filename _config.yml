@@ -4,7 +4,7 @@ email: kaashif dot hymabaccus at wadh dot ox dot ac dot uk
 description:
   The Oxford Star Trek Society
 baseurl: ""
-url: "http://oxfordstartreksociety.github.io"
+url: "http://oxfordstartreksociety.co.uk"
 
 markdown: kramdown
 theme: minima
