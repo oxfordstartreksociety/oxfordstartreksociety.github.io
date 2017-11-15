@@ -5,25 +5,49 @@
  */
 
 body {
-  padding-top: 54px;
+	padding-top: 54px;
 }
 
 @media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+	body {
+		padding-top: 56px;
+	}
+}
+
+#big-title {
+	position: absolute;
+	top: 300px;
+	width: 100%;
+	color: #FFF;
+	text-align: center;
+	display: block;
+}
+
+.card-img-trim {
+	max-width: auto;
+	height: 215px;
+	overflow: hidden;
 }
 
 .carousel-item {
-  height: 65vh;
-  min-height: 300px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	height: 65vh;
+	min-height: 300px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	opacity: 0.4;
+	border-radius: 9px;
+}
+
+.carousel {
+	background-color: #000;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	border-radius: 9px;
 }
 
 .portfolio-item {
-  margin-bottom: 30px;
+	margin-bottom: 30px;
 }
