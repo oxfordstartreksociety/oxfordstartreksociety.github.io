@@ -10,13 +10,13 @@ body {
 
 @media (min-width: 992px) {
 	body {
-		padding-top: 56px;
+		padding-top: 96px;
 	}
 }
 
 #big-title {
 	position: absolute;
-	top: 300px;
+	top: 320px;
 	width: 100%;
 	color: #FFF;
 	text-align: center;
