@@ -14,9 +14,14 @@ body {
 	}
 }
 
+.crew {
+	height: 200px;
+	object-fit: cover;
+}
+
 #big-title {
 	position: absolute;
-	top: 320px;
+	top: 200px;
 	width: 100%;
 	color: #FFF;
 	text-align: center;
@@ -24,14 +29,13 @@ body {
 }
 
 .card-img-trim {
-	max-width: auto;
 	height: 200px;
+	object-fit: cover;
 	overflow: hidden;
 }
 
 .carousel-item {
-	min-height: 700px;
-	background: no-repeat center center scroll;
+	min-height: 450px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -49,4 +53,8 @@ body {
 
 .portfolio-item {
 	margin-bottom: 30px;
+}
+
+.navbar {
+	margin-top: -100px;
 }
