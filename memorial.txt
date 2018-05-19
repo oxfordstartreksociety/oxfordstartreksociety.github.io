@@ -39,6 +39,14 @@ TT 1990   - Sen. Mem.: Dr Gill Pearce
             Publicity: Paul Groves
              Printing: Iain Minton
 
+MT 1991   - Sen. Mem.: Dr Gill Pearce
+            President: Susan Crook
+            Treasurer: Iain Minton
+            Secretary: Andrew Jackson
+            Publicity: Simon Lilley
+               Drinks: Dave Montgomery
+             Magazine: Bill Gannon
+
 HT 1991   - Sen. Mem.: Dr Gill Pearce
             President: Susan Crook
             Treasurer: Iain Minton
@@ -47,14 +55,6 @@ HT 1991   - Sen. Mem.: Dr Gill Pearce
                  Plus: Warren Peto
                        Andrew Jackson
                        Dave Montgomery
-
-MT 1991   - Sen. Mem.: Dr Gill Pearce
-            President: Susan Crook
-            Treasurer: Iain Minton
-            Secretary: Andrew Jackson
-            Publicity: Simon Lilley
-               Drinks: Dave Montgomery
-             Magazine: Bill Gannon
 
 TT 1991   - Sen. Mem.: Dr Gill Pearce
             President: Susan Crook
