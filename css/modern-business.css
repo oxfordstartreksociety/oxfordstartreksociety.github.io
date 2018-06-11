@@ -58,3 +58,8 @@ body {
 .navbar {
 	margin-top: -100px;
 }
+
+.calendar {
+    width: 100%;
+    min-height: 700px;
+}
