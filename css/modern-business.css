@@ -69,3 +69,7 @@ body {
     height: 50px;
     padding: 2px;
 }
+
+.card-title {
+    color: #007bff;
+}
