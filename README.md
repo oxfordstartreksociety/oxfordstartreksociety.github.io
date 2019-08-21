@@ -2,7 +2,15 @@ Oxford Star Trek Society's Website
 ==================================
 
 This is our website, check it out at
-<http://oxfordstartreksociety.co.uk>.
+<https://oxfordstartreksociety.co.uk>.
+
+List of Crews
+-------------
+
+The list of crews is stored in `_data/crews.json`. When there is a new
+crew, please add yourself to the top of the list following the format
+of the other crews. Ideally, you'll have a crew photo you can
+provide (see the 2015-2019 crews).
 
 License
 -------
