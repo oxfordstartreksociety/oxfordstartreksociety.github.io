@@ -1,0 +1,180 @@
+[
+    {
+        "crew": {
+            "Captain": "William Jefferies",
+            "First Officer": "Jeremy Salkeld",
+            "Morale Officer": "Sophia Vaughan",
+            "Technical Officer": "William Chappell"
+        },
+        "years": "2019-2020",
+        "image": "img/placeholder.png"
+    },
+    {
+        "crew": {
+            "Captain": "Ruth Crothers",
+            "First Officer": "William Chappell",
+            "Morale Officer": "Rogan Clark",
+            "Technical Officer": "Kaashif Hymabaccus"
+        },
+        "years": "2018-2019",
+        "image": "img/group_Jan_2019_crop.jpg"
+    },
+    {
+        "crew": {
+            "Captain": "Matthew Le Croissette",
+            "First Officer": "Lizzy Griffiths",
+            "Morale Officer": "Sophia Vaughan",
+            "Technical Officer": "William Seymour"
+        },
+        "years": "2017-2018",
+        "image": "img/group_2018.jpg"
+    },
+    {
+        "crew": {
+            "Captain": "Rose Atkinson",
+            "First Officer": "Becky Todd",
+            "Morale Officer": "Linda Jane Canton",
+            "Technical Officer": "Maaike Zwart"
+        },
+        "years": "2016-2017",
+        "image": "img/bear.jpg"
+    },
+    {
+        "crew": {
+            "Captain": "Callum Spiller",
+            "First Officer": "Alastair Graham",
+            "Technical Officer": "Nathan Donaldson"
+        },
+        "years": "2015-2016",
+        "image": "img/group_2015.jpg"
+    },
+    {
+        "crew": {
+            "Captain": "Oscar Acton",
+            "First Officer": "Anthony Landau",
+            "Technical Officer": "Nathan Donaldson"
+        },
+        "years": "2014-2015"
+    },
+    {
+        "crew": {
+            "Captain": "Stephen Eldridge",
+            "First Officer": "Lucy Eldridge",
+            "Technical Officer": "William Dutton"
+        },
+        "years": "2013-2014"
+    },
+    {
+        "crew": {
+            "Captain": "Louise Peterken",
+            "First Officer": "William Dutton"
+        },
+        "years": "2012-2013"
+    },
+    {
+        "crew": {
+            "Captain": "Lucy Eldridge",
+            "First Officer": "Louise Peterken"
+        },
+        "years": "2011-2012"
+    },
+    {
+        "crew": {
+            "Captain": "Nicola Mansfield",
+            "First Officer": "Alun Perkins"
+        },
+        "years": "2010-2011"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Andrew Jackson",
+            "Secretary": "Michael Lapin",
+            "Treasurer": "Bill Gannon",
+            "Social Secretary": "Will Fitchew",
+            "Competent": "Chris Dennis",
+            "Novitiate": "Steve Smith"
+        },
+        "years": "TT 1992"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Andrew Jackson",
+            "Secretary": "Michael Lapin",
+            "Treasurer": "Bill Gannon",
+            "Social Secretary": "Will Fitchew",
+            "Drinks": "Chris Dennis"
+        },
+        "years": "HT 1992"
+    },
+    {
+        "crew": {
+            "President": "Andrew Jackson",
+            "Secretary": "Steve Smith",
+            "Treasurer": "Bill Gannon",
+            "Dogsbody": "Chris Dennis",
+            "Sen. Mem.": "Dr Gill Pearce"
+        },
+        "years": "MT 1992"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Susan Crook",
+            "Treasurer": "Iain Minton",
+            "Secretary": "Gary Wing",
+            "Publicity": "Simon Lilley",
+            "Sweatshirts": "Andrew Jackson",
+            "Minus": "Dave Montgomery",
+            "Magazine": "Paul Groves"
+        },
+        "years": "TT 1991"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Susan Crook",
+            "Treasurer": "Iain Minton",
+            "Secretary": "Gary Wing",
+            "Magazine": "Paul Groves",
+            "Plus": "Warren Peto, Andrew Jackson, Dave Montgomery"
+        },
+        "years": "HT 1991"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Susan Crook",
+            "Treasurer": "Iain Minton",
+            "Secretary": "Andrew Jackson",
+            "Publicity": "Simon Lilley",
+            "Drinks": "Dave Montgomery",
+            "Magazine": "Bill Gannon"
+        },
+        "years": "MT 1991"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Susan Crook",
+            "Secretary": "Gary Wing",
+            "Treasurer": "Mark Dunn",
+            "Publicity": "Paul Groves",
+            "Printing": "Iain Minton"
+        },
+        "years": "TT 1990"
+    },
+    {
+        "crew": {
+            "Sen. Mem.": "Dr Gill Pearce",
+            "President": "Susan Crook",
+            "Secretary": "Gary Wing",
+            "Treasurer": "Mark Dunn",
+            "Publicity": "Paul Groves",
+            "Printing": "Iain Minton",
+            "Common Sense": "Warren Peto"
+        },
+        "years": "MT 1990"
+    }
+]

@@ -12,58 +12,22 @@ layout: default
   </ol>
   <h2>Past Crews</h2>
   <div class="row">
-    <div class="col-lg mb-4">
-      <div class="memorial">
-        <pre>
-          {% include_relative memorial.txt %}
-        </pre>
-      </div>
-    </div>
-    <div class="col-lg portfolio-item">
-      <div class="card h-30">
-        <div class="card-img-trim">
-          <img class="card-img-top card-img-trim"
-               src="img/group_Jan_2019_crop.jpg" alt="">
-        </div>
+    {% for crew in site.data.crews %}
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        {% if crew.image %}
+        <img class="card-img-top crew-pic" src="{{ crew.image }}">
+        {% endif %}
+        <h2 class="card-title text-center" style="margin-top: 10px">Crew of {{ crew.years }}</h5>
         <div class="card-body">
-          <h4 class="card-title">
-            Crew of 2018-19
-          </h4>
-        </div>
-      </div>
-      <div class="card h-30">
-        <div class="card-img-trim">
-          <img class="card-img-top card-img-trim"
-               src="img/group_2018.jpg" alt="">
-        </div>
-        <div class="card-body">
-          <h4 class="card-title">
-            Crew of 2017-18
-          </h4>
-        </div>
-      </div>
-      <div class="card h-30">
-        <div class="card-img-trim">
-          <img class="card-img-top card-img-trim"
-               src="img/bear.jpg" alt="">
-        </div>
-        <div class="card-body">
-          <h4 class="card-title">
-            Crew of 2016-17
-          </h4>
-        </div>
-      </div>
-      <div class="card h-30">
-        <div class="card-img-trim">
-          <img class="card-img-top card-img-trim"
-               src="img/group_2015.jpg" alt="">
-        </div>
-        <div class="card-body">
-          <h4 class="card-title">
-            Crew of 2015-16
-          </h4>
+          <ul>
+            {% for pair in crew.crew %}
+            <li>{{ pair[0] }}: {{ pair[1] }}</li>
+            {% endfor %}
+          </ul>
         </div>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>
