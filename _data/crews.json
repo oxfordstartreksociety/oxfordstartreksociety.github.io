@@ -1,6 +1,16 @@
 [
     {
         "crew": {
+            "Captain": "Jeremy Salkeld",
+            "First Officer": "Ruth Crothers",
+            "Morale Officer": "Sophia Vaughan",
+            "Technical Officer": "Sophia Vaughan"
+        },
+        "years": "2020-2021",
+        "image": "img/colour_logo.png"
+    },
+    {
+        "crew": {
             "Captain": "William Jefferies",
             "First Officer": "Jeremy Salkeld",
             "Morale Officer": "Sophia Vaughan",
