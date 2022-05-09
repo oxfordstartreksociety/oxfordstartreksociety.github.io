@@ -1,4 +1,26 @@
 [
+        {
+        "crew": {
+            "Captain": "Lizzy Griffiths",
+            "First Officer": "Sophia Vaughan",
+            "Grand Nagus": "Paul Fowler",
+            "Morale Officer": "Lizzy Griffiths",
+            "Technical Officer": "William Jefferies"
+        },
+        "years": "2022-2023",
+        "image": "img/Tribble_logo_white_space.png"
+    },
+        {
+        "crew": {
+            "Captain": "Sophia Vaughan",
+            "First Officer": "",
+            "Grand Nagus": "Lizzy Griffiths",
+            "Morale Officer": "Sophia Vaughan",
+            "Technical Officer": "Sophia Vaughan"
+        },
+        "years": "2021-2022",
+        "image": "img/Tribble_logo_white_space.png"
+    },
     {
         "crew": {
             "Captain": "Jeremy Salkeld",
