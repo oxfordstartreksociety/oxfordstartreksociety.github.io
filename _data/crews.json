@@ -1,11 +1,22 @@
 [
         {
         "crew": {
-            "Captain": "Lizzy Griffiths",
+            "Captain": "Heather",
             "First Officer": "Sophia Vaughan",
             "Grand Nagus": "Paul Fowler",
-            "Morale Officer": "Lizzy Griffiths",
-            "Technical Officer": "William Jefferies"
+            "Morale Officer": "Sophia Vaughan",
+            "Science Officer": "Heather"
+        },
+        "years": "2023-2024",
+        "image": "img/Tribble_logo_white_space.png"
+    },
+        {
+        "crew": {
+            "Captain": "Lizzy Griffiths/Jeremy Salkeld",
+            "First Officer": "Sophia Vaughan",
+            "Grand Nagus": "Paul Fowler",
+            "Morale Officer": "Lizzy Griffiths/Sophia Vaughan",
+            "Technical Officer": "William Jefferies/Heather"
         },
         "years": "2022-2023",
         "image": "img/Tribble_logo_white_space.png"
