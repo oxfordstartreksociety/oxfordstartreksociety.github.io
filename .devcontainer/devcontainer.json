@@ -6,7 +6,7 @@
       "version": "3.1.4"
     }
   },
-  "postCreateCommand": "bundle install",
+  "postCreateCommand": "script/build",
   "customizations": {
     "vscode": {
       "extensions": [
