@@ -4,6 +4,25 @@ Oxford Star Trek Society's Website
 This is our website, check it out at
 <https://oxfordstartreksociety.co.uk>.
 
+Development Setup
+-----------------
+
+This Jekyll site requires Ruby 3.1.4. Quick setup:
+
+```bash
+# Install rbenv
+brew install rbenv ruby-build
+rbenv init  # follow instructions to add to shell
+
+# Install Ruby and build
+rbenv install 3.1.4
+rbenv local 3.1.4
+gem install bundler:2.3.26
+script/build
+```
+
+**Alternative**: Use the dev container configuration for automatic setup.
+
 List of Crews
 -------------
 
